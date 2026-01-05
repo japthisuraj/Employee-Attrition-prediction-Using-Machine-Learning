@@ -1,28 +1,31 @@
-<h1 align="center">Hi 👋, I'm japthi suraj</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# Employee Attrition Prediction Using Machine Learning
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=japthisuraj&label=Profile%20views&color=0e75b6&style=flat" alt="japthisuraj" /> </p>
+Developed a machine learning model to predict employee attrition using classification algorithms such as Logistic Regression and Random Forest. The project demonstrates end-to-end preprocessing, model training, evaluation, and basic interpretation.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japthisuraj" alt="japthisuraj" /></a> </p>
+Key features
+- End-to-end Jupyter notebook demonstrating data cleaning, feature engineering, model training and evaluation
+- Models included: Logistic Regression, Random Forest
+- Preprocessing: encoding categorical variables, handling missing values, feature scaling
+- Evaluation: accuracy, precision, recall, F1-score, confusion matrix
 
-- 🌱 I’m currently learning **Machine Learning**
+Quick start
+1. Clone the repo:
+   git clone https://github.com/japthisuraj/Employee-Attrition-prediction-Using-Machine-Learning.git
+2. Create and activate a virtual environment:
+   python -m venv .venv
+   source .venv/bin/activate  # macOS/Linux
+   .venv\Scripts\activate     # Windows
+3. Install dependencies (if requirements.txt is present):
+   pip install -r requirements.txt
+4. Launch the Jupyter notebook:
+   jupyter notebook
+   Open the notebook(s) in the repository to follow the preprocessing, training and evaluation steps.
 
-- 👯 I’m looking to collaborate on **Employee-Attrition-prediction-Using-Machine-Learning**
+Results
+See the notebooks for training logs, evaluation tables and confusion matrices comparing models. Use the notebooks to reproduce reported metrics and plots.
 
-- 🤝 I’m looking for help with **Data Analyst**
+Contributing
+Contributions, bug reports and improvements are welcome — please open an issue or submit a pull request.
 
-- 💬 Ask me about **Data Analyst**
-
-- 📫 How to reach me **japthisuraj6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/japthi-suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japthi-suraj" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=japthisuraj&show_icons=true&locale=en&layout=compact" alt="japthisuraj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=japthisuraj&show_icons=true&locale=en" alt="japthisuraj" /></p>
+License
+Add a LICENSE file to indicate the repository license. Contact the repository owner for license choice.
