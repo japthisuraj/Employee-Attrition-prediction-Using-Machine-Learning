@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japthisuraj" alt="japthisuraj" /></a> </p>
 
-- 🌱 I’m currently learning **Deeplearning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Employee-Attrition-prediction-Using-Machine-Learning**
 
